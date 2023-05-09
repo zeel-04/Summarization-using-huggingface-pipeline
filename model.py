@@ -1,5 +1,5 @@
-import transformers
-import torch
+# import transformers
+# import torch
 from transformers import pipeline
 import streamlit as st
 
